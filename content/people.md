@@ -5,59 +5,35 @@ title: People
 
 # Steering Committee
 
-{{< fa hands-helping >}} ・ Devren Washington ・ Movement Alliance Project
+{{< fa cogs >}} ・ Will Dean ・ Research and Data Services Librarian, Temple University Libraries
 
-{{< fa vial >}} ・ Grant Wythoff ・ Center for Digital Humanities at Princeton
+{{< fa hands-helping >}} ・ Kate Goodman ・ Community Initiatives Specialist, Free Library of Philadelphia
 
-{{< fa cogs >}} ・ Mark Steckel ・ PhillyWisper
+{{< fa cogs >}} ・ Evan Guerra ・ LEAP Maker Mentor, Free Library of Philadelphia
 
-{{< fa vial >}} ・ Alex Wermer-Colan ・ Scholars Studio, Temple University
-
-{{< fa vial >}} ・ Sascha Meinrath ・ Bellisario College of Communications (State College, PA)
-
-{{< fa cogs >}} ・ Jennifer Oxenford ・ Keystone Initiative for Network Based Education and Research (KINBER)
-
-<br/>
-
-# Members
-
-{{< fa bell >}} ・ Erica Atwood ・ Chief of Staff, Councilperson Jaimie Gauthier
-
-{{< fa cogs >}} ・ Alex Brooke ・ Purdue University
-
-{{< fa vial >}} ・ Tithi Chattopadhyay ・ Princeton Center for IT Policy
-
-{{< fa cogs >}} ・ Mike Dank ・ Philly Mesh
-
-{{< fa cogs >}} ・ Will Dean ・ Temple University Libraries
-
-{{< fa vial >}} ・ Scott Enderle ・ Price Lab, University of Pennsylvania
-
-{{< fa bell >}} ・ Juliet Fink-Yates ・ Digital Inclusion Fellow, City of Philadelphia OIT
-
-{{< fa cogs >}} ・ Tejas Gupta ・ Princeton University
-
-{{< fa hands-helping >}} ・ Jeremy Keim-Shenk ・ Philly Tech Justice
-
-{{< fa hands-helping >}} ・ Helyx Chase Scearce Horwitz ・ Movement Alliance Project
+{{< fa hands-helping >}} {{< fa cogs >}} ・ Helyx Chase Scearce Horwitz ・ Information Systems and Technology Manager, Movement Alliance Project
 
 {{< fa cogs >}} ・ Jonathan Latko ・ Computer Recycling Center, Temple University
 
-{{< fa vial >}} ・ Jessa Lingel ・ Annenberg School for Communication, University of Pennsylvania
+{{< fa hands-helping >}} ・ Heather Lewis-Weber ・ Sr. Coordinator of Community Engagement, Temple University College of Liberal Arts
 
-{{< fa vial >}} ・ Alison Macrina ・ Library Freedom Institute
+{{< fa vial >}} ・ Jessa Lingel ・ Associate Professor, Annenberg School for Communication, University of Pennsylvania
 
-{{< fa hands-helping >}} {{< fa cogs >}} ・ Rev. Michael A. Major ・ Called to Serve
+{{< fa hands-helping >}} {{< fa cogs >}} ・ Rev. Michael A. Major ・ Board President, Called to Serve CDC, Sr. Technology Business Analyst, Susquehanna International Group
 
-{{< fa bell >}} ・ Daniel Lodise ・ Legislative Director, Councilperson Isaiah Thomas
+{{< fa vial >}} ・ Sascha Meinrath ・ Palmer Chair in Telecommunications, Bellisario College of Communications, Pennsylvania State University
 
-{{< fa bell >}} ・ Revati Prasad ・ Annenberg School for Communication, University of Pennsylvania
+{{< fa hands-helping >}} ・ Stasia Monteiro ・ NAC Program Director, HACE
 
-{{< fa hands-helping >}} ・ Hannah Sassaman ・ Movement Alliance Project
+{{< fa cogs >}} ・ Jennifer Oxenford ・ Director of Research and Community Engagement, Keystone Initiative for Network Based Education and Research (KINBER)
 
-{{< fa bell >}} ・ Emily Yates ・ Smart City Director for the City of Philadelphia
+{{< fa cogs >}} ・ Mark Steckel ・ Founder, PhillyWisper
 
-<br/>
+{{< fa hands-helping >}} ・ Devren Washington ・ Senior Policy Organizer, Movement Alliance Project
+
+{{< fa vial >}} ・ Alex Wermer-Colan ・ CLIR/DH Postdoctoral Fellow, Loretta C. Duckworth Scholars Studio, Temple University
+
+{{< fa vial >}} ・ Grant Wythoff ・ Digital Humanities Strategist, Center for Digital Humanities at Princeton University
 
 # Advisory Board
 
@@ -80,7 +56,6 @@ title: People
 {{< fa cogs >}} ・ Houman Saberi ・ Community Tech NY (New York)
 
 <br/>
-<br/>
 
 ***********
 
@@ -93,3 +68,41 @@ title: People
 {{< fa bell >}} = City Hall
 
 {{< fa vial >}} = researchers
+
+<br/>
+
+# Community Partners
+
+[Called to Serve](https://calledtoservecdc.org/)
+
+[HACE](https://www.hacecdc.org/)
+
+[Village of the Arts and Humanities](http://spaces.villagearts.org/)
+
+[Philly Tech Justice](https://phillytechjustice.org/)
+
+[PhillyWisper](https://phillywisper.net/)
+
+# Allied Orgs
+
+[Digital Harbor Foundation](https://www.digitalharbor.org/), Baltimore
+
+[Project WAVES](https://projectwaves.net/), Baltimore
+
+[iNethi](https://www.inethi.org.za/), Cape Town
+
+[KINBER](https://kinber.org/), Harrsiburg
+
+[Community Tech NY](http://communitytechny.org/), New York
+
+[MetaMesh](https://www.metamesh.org/), Pittsburgh
+
+[X-Lab](https://thexlab.org/), Washington, DC
+
+# Funders
+
+Rapid Response Magic Project of the [Princeton Humanities Council](https://humanities.princeton.edu/)
+
+RISE (Recognizing Inequalities and Standing for Equality), [Pace Center for Civic Engagement](https://pace.princeton.edu/)
+
+<br/>
